@@ -1,0 +1,14 @@
+.list {
+    padding: 10px;
+    list-style: none;
+}
+
+.item {
+  font-size: 20px;
+  color: #210B61;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 10px;
+}
+

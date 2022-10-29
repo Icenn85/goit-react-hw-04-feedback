@@ -1,0 +1,17 @@
+.btn {
+    padding: 3px;   
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 4px;
+    border: 1px solid #A9A9F5;
+    background-color: #A9A9F5;
+    cursor: pointer;
+}
+
+.btn:not(:last-child) {
+    margin-right: 8px;
+  }
+
+.btn:hover {
+    background-color:#ffffff
+}
